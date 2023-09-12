@@ -34,4 +34,4 @@ If everything goes well, you will be ready to fetch your first real exercise.
 
 This is an exercise to introduce users to using Exercism - http://en.wikipedia.org/wiki/%22Hello,_world!%22_program
 
-## PR forks one
+## PR forks one and two
